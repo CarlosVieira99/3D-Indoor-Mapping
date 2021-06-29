@@ -1,0 +1,8 @@
+Absolute precision of north pole: +- 0.0 m
+Relative precision of north pole: +- 0.024 %
+Most distant point: 3.385 +- 0.06 m
+Maximum height: 1.858 +- 0.032 m
+Triangles Rienmann Sum Area: 12.888 +- 0.737 m²
+Circles Rienmann Sum Area: 12.883 +- 0.737 m²
+Triangles Rienmann Sum Perimeter: 12.097 +- 0.375 m
+Circles Rienmann Sum Perimeter: 12.093 +- 0.375 m

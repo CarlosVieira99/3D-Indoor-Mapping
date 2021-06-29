@@ -1,0 +1,5 @@
+Begnning of the test at: 2020-07-28 02:38:18.139283
+Test ended at: 2020-07-28 02:55:44.349282
+Time Elapsed: 17.0M 26.0S
+Total Points: 40200
+Average PPS: 38.43
